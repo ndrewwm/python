@@ -9,7 +9,7 @@ You do this six times, once for each ability.
 Your character's initial hitpoints are 10 + your character's constitution modifier.
 You find your character's constitution modifier by subtracting 10 from your character's constitution, divide by 2 and round down.
 
-Write a random character generator that follows the rules above.
+Write a random character generator that follows the rules above. Your character generator class should include a method called `ability()` which returns a valid ability score.
 
 For example, the six throws of four dice may look like:
 
